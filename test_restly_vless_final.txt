@@ -1,0 +1,10 @@
+#profile-title: RestlyConnect
+#support-url: https://t.me/restlyconnect
+#profile-update-interval: 24
+#announce: UPD:2026-01-30 19:15 | тгк @restlyconnect
+################################
+vless://45e3b7ad-03b6-42fc-b616-1e92bdd0a5b3@185.234.59.58:443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=f79448a30d#1.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%40restlyconnect
+vless://45e3b7ad-03b6-42fc-b616-1e92bdd0a5b3@185.234.59.94:443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=f79448a30d#2.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%40restlyconnect
+vless://45e3b7ad-03b6-42fc-b616-1e92bdd0a5b3@185.234.59.178:443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=f79448a30d#3.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%40restlyconnect
+vless://45e3b7ad-03b6-42fc-b616-1e92bdd0a5b3@185.234.59.55:443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=f79448a30d#4.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%40restlyconnect
+vless://3bd011c9-c5ec-4024-8aaa-6d79db4e97d3@ndt.fasti.win:443?security=reality&encryption=none&pbk=XBBVeMURFu7jmYJ9MZwjEWgfQlGTnRs0B5So5Fy7jWs&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ndt.fasti.win&sid=992f3294e2336744#5.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%40restlyconnect
